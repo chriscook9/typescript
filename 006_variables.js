@@ -11,4 +11,4 @@ function printName(f, l) {
     console.log(greeting + f + " " + l);
 }
 printName("Chris", "Cook");
-//# sourceMappingURL=005_variables.js.map
+//# sourceMappingURL=006_variables.js.map

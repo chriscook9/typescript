@@ -3,8 +3,11 @@
     "sourceMap": true
   },
   "files": [
-    "005_typescript_config.ts",
-    "005_variables.ts"
-    "008_type_alias.ts"
+    // "005_typescript_config.ts",
+    // "006_variables.ts",
+    // "007_types.ts",
+    // "008_type_alias.ts",
+    // "009_union_types.ts"
+    "010_arithmatic_operators.ts"
   ]
 }
