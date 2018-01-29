@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    "005_typescript_config.ts",
+    "005_variables.ts"
+    "008_type_alias.ts"
+  ]
+}
